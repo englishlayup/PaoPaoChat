@@ -1,3 +1,3 @@
 # COSC3506-Project
 
-Kai is literal trash
+Chat app for school project
