@@ -1,3 +1,3 @@
-# COSC3506-Project
+# PaoPaoChat
 
 Chat app for school project
